@@ -277,7 +277,7 @@ $(document).ready(function () {
             + '<span>%H</span> hr '
             + '<span>%M</span> min '
             + '<span>%S</span> sec'));
-    });*/
+    });
 
     //Parallax
     $('.jarallax').jarallax({
@@ -377,4 +377,4 @@ $(document).ready(function () {
 
     $('.current-year').text(new Date().getFullYear());
 
-});   
+});   */
