@@ -375,6 +375,6 @@ $(document).ready(function () {
         }, 1000);
     });
 
-    $('.current-year').text(new Date().getFullYear());
+    $('.current-year').text(new Date().getFullYear());*/
 
-});   */
+});   
