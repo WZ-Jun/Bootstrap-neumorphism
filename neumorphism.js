@@ -71,7 +71,7 @@ $(document).ready(function () {
         });
         headroom.init();
     }
-
+/*
     // Background images for sections
     $('[data-background]').each(function () {
         $(this).css('background-image', 'url(' + $(this).attr('data-background') + ')');
